@@ -1,0 +1,113 @@
+.navbar-nav .nav-item .nav-link {
+    color: black !important;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    background-color: lightgray !important;
+    color: gray;
+}
+
+.slider_area {
+    height: 800px;
+    width: fit-content;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.slider_area .single_slider .slider_text h3 {
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+    font-size: 60px;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    margin-top: 200px;
+}
+
+.slider_area .single_slider .slider_text p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+    margin-bottom: 55px;
+    margin-top: 15px;
+}
+
+.slider_area .single_slider .slider_text a {
+    width: 240px;
+}
+
+.owl-item {
+    -webkit-tap-highlight-color: transparent;
+    position: relative;
+}
+
+.boxed-btn2 {
+    background: transparent;
+    color: #fff;
+    display: inline-block;
+    text-decoration: none;
+    padding: 18px 24px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    border: 0;
+    border: 1px solid #fff;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.boxed-btn2:hover {
+    background: transparent;
+    color: black;
+    background-color: #fff;
+    display: inline-block;
+    padding: 18px 24px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    border: 0;
+    border: 1px solid #fff;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.boxed-btn3 {
+    background: transparent;
+    color: black;
+    display: inline-block;
+    text-decoration: none;
+    padding: 18px 24px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    border: 0;
+    border: 1px solid black;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.boxed-btn3:hover {
+    background: transparent;
+    color: #fff;
+    background-color: black;
+    display: inline-block;
+    padding: 18px 24px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    border: 0;
+    box-sizing: border-box;
+    border: 1px solid #fff;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.bg-image {
+    background-image: url('./bannerimg/1.png\ \(1\).webp');
+    background-size: cover;
+    /* You can use 'cover', 'contain', or other values as needed */
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 80vh;/
+}
